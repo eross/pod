@@ -4,7 +4,7 @@
 
 tasks:
   - init: ./mvnw install
-    command:  spring-boot:run
+    command: ./mvnw spring-boot:run
 
 ports:
   - port: 8080
