@@ -14,5 +14,11 @@ github:
   prebuilds:
     addBadge: true
     addComment: true
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addLabel: prebuild-in-gitpod
+
 
 
